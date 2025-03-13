@@ -66,16 +66,5 @@ Inspired by the need for file organization in daily work environments.
 Special thanks to the C++ community for the powerful std::filesystem library.
 Happy file organizing! 🚀
 
-markdown
-Copy
-Edit
 
-### Key Sections:
-1. **Introduction**: Briefly describes the project and its purpose.
-2. **Features**: Highlights the key features of the program.
-3. **Requirements**: Lists any dependencies or tools required to run the program.
-4. **Setup**: Explains how to clone, compile, and run the program.
-5. **How to Use**: Provides step-by-step instructions for using the tool.
-6. **Supported File Types**: Lists the file types that the program handles.
-7. **Contributions**: Encourages others to contribute or fork the project.
-8. **License and Acknowledgments**: Standard sections for open-sourc
+
